@@ -1,0 +1,5 @@
+{
+  "version": "6.1",
+  "notes": "Fixed export crash, added multi-GPU NVENC",
+  "url": "https://github.com/you/media-analyser/releases/latest"
+}
